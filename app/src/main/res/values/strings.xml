@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">FunFusion</string>
+    <string name="account_creation">Création de compte</string>
+    <string name="fill_form_manually">Remplir le formulaire manuellement</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txtTabbar">Tabbar</string>
+    <string name="qr_code_image_description">Tabbar</string>
+
+    <string name="txtTitle">FUNFUSION</string>
+    <string name="txtTab1">MOVIE</string>
+    <string name="txtTab2">SALLE</string>
+    <string name="txtTab3">QRCODE</string>
+    <string name="txtTab4">PANNIER</string>
+    <string name="addCart">Ajouter au panier</string>
+    <string name="timeMovie">Durée : </string>
+    <string name="descMovie">Description : </string>
+    <string name="lastname">Nom</string>
+    <string name="firstname">Prénom</string>
+    <string name="email">Email</string>
+    <string name="address">Adresse</string>
+    <string name="postal_code">Code postal</string>
+    <string name="city"> Ville</string>
+    <string name="fidelity_card">Carte de fidélité</string>
+    <string name="account_creation_label">Créer</string>
+    <string name="account_creation_error_empty_field">Veuillez remplir tous les champs</string>
+    <string name="account_creation_error_wrong_qrcode">Veuillez fournir un qr code valide</string>
+    <string name="common_error">Une erreur est survenue</string>
+    <string name="homepage_default_title">Page d\'accueil</string>
+    <string name="account_infos_button">Détails du compte</string>
+    <string name="account_submit_changes">Enregister les modifications</string>
+</resources>
